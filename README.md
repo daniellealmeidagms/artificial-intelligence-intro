@@ -7,8 +7,13 @@ Breadth-First-Search
 Uniform-Cost-Search
 Using Berkeley's University Pacman framework avaliable at: https://inst.eecs.berkeley.edu/~cs188/su20/assets/files/search.zip
 
+Hanoi Tower with DFS
+Based on Ahlaya Mandana e Suhail Pallath Sulaiman code, avaiable at: https://github.com/SuhailPallathSulaiman/Tower-of-Hanoi
+
 Unidimensional Knapsack-Problem
 Multidimensional Knapsack-Problem -> used to suggest an investment portfolio
+
+---
 
 Implementação em Python dos seguintes algoritmos:
 
@@ -16,6 +21,9 @@ Busca em Profundidade
 Busca em Largura
 Busca de Custo Uniforme
 Utilizando o framework Pacman da Universidade de Berkeley, disponível em: https://inst.eecs.berkeley.edu/~cs188/su20/assets/files/search.zip
+
+Torre de Hanoi utilizando Busca em Profundidade
+Baseado no código de Ahalya Mandana e Suhail Pallath Sulaiman, disponível em: https://github.com/SuhailPallathSulaiman/Tower-of-Hanoi
 
 Problema da Mochila Unidimensional
 Problema da Mochila Multidimensional -> aplicado à sugestão de uma carteira de investimentos
