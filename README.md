@@ -2,9 +2,7 @@
 
 Python implementation of the following algorithms:
 
-Depth-First-Search
-Breadth-First-Search
-Uniform-Cost-Search
+Depth-First-Search, Breadth-First-Search and Uniform-Cost-Search
 Using Berkeley's University Pacman framework avaliable at: https://inst.eecs.berkeley.edu/~cs188/su20/assets/files/search.zip
 
 Hanoi Tower with DFS
@@ -17,9 +15,7 @@ Multidimensional Knapsack-Problem -> used to suggest an investment portfolio
 
 Implementação em Python dos seguintes algoritmos:
 
-Busca em Profundidade
-Busca em Largura
-Busca de Custo Uniforme
+Busca em Profundidade, Busca em Largura e Busca de Custo Uniforme
 Utilizando o framework Pacman da Universidade de Berkeley, disponível em: https://inst.eecs.berkeley.edu/~cs188/su20/assets/files/search.zip
 
 Torre de Hanoi utilizando Busca em Profundidade
