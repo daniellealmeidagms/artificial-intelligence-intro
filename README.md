@@ -1,4 +1,4 @@
-# inteligencia-artificial-introducao
+# artificial-intelligence-intro
 
 Python implementation of the following algorithms:
 
